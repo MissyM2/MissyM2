@@ -1,16 +1,13 @@
+missym2/README.md
+
 ### Hi there 👋
 
-<!--
-**MissyM2/MissyM2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m Missy Maloney
+- ✨  I’m currently working with the .NET ecosystem and .NET MAUI
+- 🌱 I have current training in .NET Entity Framework, Identity, Authentication and Authorization
+- :art:  I also have experience in UX research and design
+  
+- 📫 How to reach me: missymaloney1@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I was a girl scout leader.  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
